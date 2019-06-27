@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  
 }
 
 .App-logo {
@@ -30,4 +30,26 @@
   to {
     transform: rotate(360deg);
   }
+
+  
 }
+.style-a
+	{
+		background-image: url(/assets/images/womens-braids/a.jpg) ;
+		background-size: cover;
+		width: 100% ;
+		height: 30em ;
+		background-repeat: no-repeat;
+		background-attachment: initial ;
+		background-position: center; 
+	}
+	.style-aa
+	{
+		background-image: url(/assets/images/womens-braids/aa.jpg);
+		background-size: cover;
+		width: 100%;
+		height: 30em;
+		background-repeat: no-repeat;
+		background-attachment: initial;
+		background-position: center; 
+	}
