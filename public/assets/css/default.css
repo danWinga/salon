@@ -12180,7 +12180,7 @@ h2.Image-Title
 		
 	.studio-1
 	{
-		background-image: url(assets/images/womens-braids/ccc.jpg);
+		background-image: url(/assets/images/womens-braids/ccc.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 50em;
@@ -12191,7 +12191,7 @@ h2.Image-Title
 	
 	.studio-2
 	{
-		background-image: url(assets/images/womens-braids/ee.jpg);
+		background-image: url(/assets/images/womens-braids/ee.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 50em;
@@ -12207,7 +12207,7 @@ h2.Image-Title
 	
 	.locs-main
 	{
-		background-image: url(images/locs/a.jpg);
+		background-image: url(/assets/images/locs/a.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 50em;
@@ -12218,7 +12218,7 @@ h2.Image-Title
 	
 	.braids-main
 	{
-		background-image: url(assets/images/womens-braids/ii.jpg);
+		background-image: url(/assets/images/womens-braids/ii.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 50em;
@@ -12229,7 +12229,7 @@ h2.Image-Title
 	
 	.wash-main
 	{
-		background-image: url(images/wash-blow-dry/a.jpg);
+		background-image: url(/assets/images/wash-blow-dry/a.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 50em;
@@ -12248,7 +12248,7 @@ h2.Image-Title
 	
 	.locs-a
 	{
-		background-image: url(images/locs/a.jpg);
+		background-image: url(/assets/images/locs/a.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12259,7 +12259,7 @@ h2.Image-Title
 	
 	.locs-b
 	{
-		background-image: url(images/locs/b.jpg);
+		background-image: url(/assets/images/locs/b.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12270,7 +12270,7 @@ h2.Image-Title
 	
 	.locs-c
 	{
-		background-image: url(images/locs/c.html);
+		background-image: url(/assets/images/locs/c.html);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12374,7 +12374,7 @@ h2.Image-Title
 	
 	.wash-a
 	{
-		background-image: url(images/wash-blow-dry/a.jpg);
+		background-image: url(/assets/images/wash-blow-dry/a.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12384,7 +12384,7 @@ h2.Image-Title
 	}
 	.wash-aa
 	{
-		background-image: url(images/wash-blow-dry/aa.jpg);
+		background-image: url(/assets/images/wash-blow-dry/aa.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12394,7 +12394,7 @@ h2.Image-Title
 	}
 	.wash-b
 	{
-		background-image: url(images/wash-blow-dry/b.jpg);
+		background-image: url(/assets/images/wash-blow-dry/b.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12423,7 +12423,7 @@ h2.Image-Title
 	}
 	.style-aa
 	{
-		background-image: url(assets/images/womens-braids/aa.jpg);
+		background-image: url(/assets/images/womens-braids/aa.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12433,7 +12433,7 @@ h2.Image-Title
 	}
 	.style-aaa
 	{
-		background-image: url(assets/images/womens-braids/aaa.jpg);
+		background-image: url(/assets/images/womens-braids/aaa.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12443,7 +12443,7 @@ h2.Image-Title
 	}
 	.style-b
 	{
-		background-image: url(assets/images/womens-braids/b.jpg);
+		background-image: url(/assets/images/womens-braids/b.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12453,7 +12453,7 @@ h2.Image-Title
 	}
 	.style-bb
 	{
-		background-image: url(assets/images/womens-braids/bb.jpg);
+		background-image: url(/assets/images/womens-braids/bb.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12463,7 +12463,7 @@ h2.Image-Title
 	}
 	.style-bbb
 	{
-		background-image: url(assets/images/womens-braids/bbb.jpg);
+		background-image: url(/assets/images/womens-braids/bbb.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12473,7 +12473,7 @@ h2.Image-Title
 	}
 	.style-c
 	{
-		background-image: url(assets/images/womens-braids/c.jpg);
+		background-image: url(/assets/images/womens-braids/c.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12483,7 +12483,7 @@ h2.Image-Title
 	}
 	.style-cc
 	{
-		background-image: url(assets/images/womens-braids/cc.jpg);
+		background-image: url(/assets/images/womens-braids/cc.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12493,7 +12493,7 @@ h2.Image-Title
 	}
 	.style-ccc
 	{
-		background-image: url(assets/images/womens-braids/ccc.jpg);
+		background-image: url(/assets/images/womens-braids/ccc.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12503,7 +12503,7 @@ h2.Image-Title
 	}
 	.style-d
 	{
-		background-image: url(assets/images/womens-braids/d.jpg);
+		background-image: url(/assets/images/womens-braids/d.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12513,7 +12513,7 @@ h2.Image-Title
 	}
 	.style-dd
 	{
-		background-image: url(assets/images/womens-braids/dd.jpg);
+		background-image: url(/assets/images/womens-braids/dd.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12524,7 +12524,7 @@ h2.Image-Title
 	
 	.style-e
 	{
-		background-image: url(assets/images/womens-braids/e.jpg);
+		background-image: url(/assets/images/womens-braids/e.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12535,7 +12535,7 @@ h2.Image-Title
 	
 	.style-ee
 	{
-		background-image: url(assets/images/womens-braids/ee.jpg);
+		background-image: url(/assets/images/womens-braids/ee.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12548,7 +12548,7 @@ h2.Image-Title
 	
 	.style-f
 	{
-		background-image: url(assets/images/womens-braids/f.jpg);
+		background-image: url(/assets/images/womens-braids/f.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12558,7 +12558,7 @@ h2.Image-Title
 	}
 	.style-ff
 	{
-		background-image: url(assets/images/womens-braids/ff.jpg);
+		background-image: url(/assets/images/womens-braids/ff.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12568,7 +12568,7 @@ h2.Image-Title
 	}
 	.style-fff
 	{
-		background-image: url(assets/images/womens-braids/fff.jpg);
+		background-image: url(/assets/images/womens-braids/fff.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12579,7 +12579,7 @@ h2.Image-Title
 	
 	.style-g
 	{
-		background-image: url(assets/images/womens-braids/g.jpg);
+		background-image: url(/assets/images/womens-braids/g.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12589,7 +12589,7 @@ h2.Image-Title
 	}
 	.style-gg
 	{
-		background-image: url(assets/images/womens-braids/gg.jpg);
+		background-image: url(/assets/images/womens-braids/gg.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12599,7 +12599,7 @@ h2.Image-Title
 	}
 	.style-ggg
 	{
-		background-image: url(assets/images/womens-braids/ggg.jpg);
+		background-image: url(/assets/images/womens-braids/ggg.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12610,7 +12610,7 @@ h2.Image-Title
 	
 	.style-h
 	{
-		background-image: url(assets/images/womens-braids/h.jpg);
+		background-image: url(/assets/images/womens-braids/h.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12620,7 +12620,7 @@ h2.Image-Title
 	}
 	.style-hh
 	{
-		background-image: url(assets/images/womens-braids/hh.jpg);
+		background-image: url(/assets/images/womens-braids/hh.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12632,7 +12632,7 @@ h2.Image-Title
 	
 	.style-i
 	{
-		background-image: url(assets/images/womens-braids/i.jpg);
+		background-image: url(/assets/images/womens-braids/i.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12642,7 +12642,7 @@ h2.Image-Title
 	}
 	.style-ii
 	{
-		background-image: url(assets/images/womens-braids/ii.jpg);
+		background-image: url(/assets/images/womens-braids/ii.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12654,7 +12654,7 @@ h2.Image-Title
 	
 	.style-j
 	{
-		background-image: url(assets/images/womens-braids/j.jpg);
+		background-image: url(/assets/images/womens-braids/j.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12664,7 +12664,7 @@ h2.Image-Title
 	}
 	.style-jj
 	{
-		background-image: url(assets/images/womens-braids/jj.jpg);
+		background-image: url(/assets/images/womens-braids/jj.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12675,7 +12675,7 @@ h2.Image-Title
 	
 	.style-k
 	{
-		background-image: url(assets/images/womens-braids/k.jpg);
+		background-image: url(/assets/images/womens-braids/k.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12686,7 +12686,7 @@ h2.Image-Title
 	
 	.style-l
 	{
-		background-image: url(assets/images/womens-braids/l.jpg);
+		background-image: url(/assets/images/womens-braids/l.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12697,7 +12697,7 @@ h2.Image-Title
 	
 	.style-m
 	{
-		background-image: url(assets/images/womens-braids/m.jpg);
+		background-image: url(/assets/images/womens-braids/m.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12708,7 +12708,7 @@ h2.Image-Title
 	
 	.style-n
 	{
-		background-image: url(assets/images/womens-braids/n.jpg);
+		background-image: url(/assets/images/womens-braids/n.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12719,7 +12719,7 @@ h2.Image-Title
 	
 	.style-nn
 	{
-		background-image: url(assets/images/womens-braids/nn.jpg);
+		background-image: url(/assets/images/womens-braids/nn.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12730,7 +12730,7 @@ h2.Image-Title
 	
 	.style-nnn
 	{
-		background-image: url(assets/images/womens-braids/nnn.jpg);
+		background-image: url(/assets/images/womens-braids/nnn.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12742,7 +12742,7 @@ h2.Image-Title
 	
 	.style-o
 	{
-		background-image: url(assets/images/womens-braids/o.jpg);
+		background-image: url(/assets/images/womens-braids/o.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12753,7 +12753,7 @@ h2.Image-Title
 	
 	.style-oo
 	{
-		background-image: url(assets/images/womens-braids/oo.jpg);
+		background-image: url(/assets/images/womens-braids/oo.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12764,7 +12764,7 @@ h2.Image-Title
 	
 	.style-ooo
 	{
-		background-image: url(assets/images/womens-braids/ooo.jpg);
+		background-image: url(/assets/images/womens-braids/ooo.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12776,7 +12776,7 @@ h2.Image-Title
 	
 	.style-p
 	{
-		background-image: url(assets/images/womens-braids/p.jpg);
+		background-image: url(/assets/images/womens-braids/p.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12787,7 +12787,7 @@ h2.Image-Title
 	
 	.style-pp
 	{
-		background-image: url(assets/images/womens-braids/pp.jpg);
+		background-image: url(/assets/images/womens-braids/pp.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12798,7 +12798,7 @@ h2.Image-Title
 	
 	.style-ppp
 	{
-		background-image: url(assets/images/womens-braids/ppp.jpg);
+		background-image: url(/assets/images/womens-braids/ppp.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12809,7 +12809,7 @@ h2.Image-Title
 	
 	.style-q
 	{
-		background-image: url(assets/images/womens-braids/q.jpg);
+		background-image: url(/assets/images/womens-braids/q.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12820,7 +12820,7 @@ h2.Image-Title
 	
 	.style-qq
 	{
-		background-image: url(assets/images/womens-braids/qq.jpg);
+		background-image: url(/assets/images/womens-braids/qq.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12831,7 +12831,7 @@ h2.Image-Title
 	
 	.style-r
 	{
-		background-image: url(assets/images/womens-braids/r.jpg);
+		background-image: url(/assets/images/womens-braids/r.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12842,7 +12842,7 @@ h2.Image-Title
 	
 	.style-s
 	{
-		background-image: url(assets/images/womens-braids/s.jpg);
+		background-image: url(/assets/images/womens-braids/s.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12853,7 +12853,7 @@ h2.Image-Title
 	
 	.style-t
 	{
-		background-image: url(assets/images/womens-braids/t.jpg);
+		background-image: url(/assets/images/womens-braids/t.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12872,7 +12872,7 @@ h2.Image-Title
 	
 	.men-a
 	{
-		background-image: url(images/mens-braids/a.jpg);
+		background-image: url(/assets/images/mens-braids/a.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12884,7 +12884,7 @@ h2.Image-Title
 	
 	.men-b
 	{
-		background-image: url(images/mens-braids/b.jpg);
+		background-image: url(/assets/images/mens-braids/b.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12896,7 +12896,7 @@ h2.Image-Title
 	
 	.men-c
 	{
-		background-image: url(images/mens-braids/c.jpg);
+		background-image: url(/assets/images/mens-braids/c.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12908,7 +12908,7 @@ h2.Image-Title
 	
 	.men-d
 	{
-		background-image: url(images/mens-braids/d.jpg);
+		background-image: url(/assets/images/mens-braids/d.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12921,7 +12921,7 @@ h2.Image-Title
 	
 	.men-e
 	{
-		background-image: url(images/mens-braids/e.jpg);
+		background-image: url(/assets/images/mens-braids/e.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
@@ -12933,7 +12933,7 @@ h2.Image-Title
 	
 	.men-f
 	{
-		background-image: url(images/mens-braids/f.jpg);
+		background-image: url(/assets/images/mens-braids/f.jpg);
 		background-size: cover;
 		width: 100%;
 		height: 30em;
